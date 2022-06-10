@@ -1,0 +1,33 @@
+.Ingredient {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 10px;
+}
+.list{
+    cursor: pointer;
+    width: 110px;
+}
+.Decrease {
+    margin-left: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+
+}
+.count {
+    margin-top: 40px;
+}
+.name {
+    font-size: 20px;
+    width: 100px;
+    margin-left: 20px;
+}
+.Block {
+    display: flex;
+    flex-direction: column;
+}
+.hr {
+    margin-left: 80px;
+}
